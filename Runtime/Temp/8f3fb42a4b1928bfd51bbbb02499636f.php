@@ -1,0 +1,3 @@
+<?php
+//000000000600a:1:{i:0;a:2:{s:3:"uid";s:1:"1";s:4:"user";a:6:{s:3:"uid";s:1:"1";s:8:"nickname";s:6:"RaiN24";s:9:"space_url";s:49:"/open/index.php?s=/ucenter/index/index/uid/1.html";s:10:"space_link";s:90:"<a ucard=1 target=_blank href=/open/index.php?s=/ucenter/index/index/uid/1.html>RaiN24</a>";s:8:"avatar64";s:44:"/open/Public/images/default_avatar_64_64.jpg";s:13:"real_nickname";s:6:"RaiN24";}}}
+?>
